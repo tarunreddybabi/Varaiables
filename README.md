@@ -1,2 +1,2 @@
-# Varaiables
+# Variables
 Variables,data types
